@@ -14,7 +14,7 @@ const highlights = [
   },
   {
     title: 'Owner DNA',
-    body: 'Built in-house by yeumedevs, CEO chez1s.',
+    body: 'Built in-house by yeumedevs.',
     stat: '100% indie',
   },
 ];
@@ -23,7 +23,7 @@ const highlights = [
 <template>
   <section class="landing">
     <div class="hero glass-panel fade-slide-up">
-      <p class="eyebrow">Owner · yeumedevs — CEO · chez1s</p>
+      <p class="eyebrow">Owner · yeumedevs · chez1s</p>
       <h1>Text Me is a realtime chat playground for bold product teams.</h1>
       <p class="lede">
         Crafted with Vue 3 + Vite on the frontend and a Node/Express socket
